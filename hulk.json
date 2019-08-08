@@ -1,0 +1,9 @@
+{
+  "ticker": "HULK",
+  "name": "Hulk Token",
+  "chain": "ION.testnet",
+  "summary": "HULK SMASH",
+  "description": "Hulk token is a testnet token of little to no value....",
+  "creator": "ceforce",
+  "contact": { "mailto:": "yomamma" }
+}
